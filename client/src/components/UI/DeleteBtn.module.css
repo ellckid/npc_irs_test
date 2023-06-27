@@ -1,0 +1,17 @@
+.delete_button {
+  position: absolute;
+  color: #000;
+  margin-left: 20px;
+  opacity: 100%;
+  border: none;
+  background-color: transparent;
+}
+
+.delete_button:hover {
+  opacity: 50%;
+}
+
+.delete_img {
+  opacity: 20%;
+  margin: 0 10px;
+}
